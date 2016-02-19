@@ -6,5 +6,6 @@
 int main(void)
 {
     printf("goodbye world\n");
+    printf("the end\b");
     return 0;
 }
