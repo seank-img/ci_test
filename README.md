@@ -6,5 +6,5 @@ Hello world travis CI test
 
 Boo!
 
-Eek! Oh noes.
+Eek! Oh noes. Run away!
 
