@@ -8,4 +8,4 @@ Boo!
 
 Eek! Oh noes. Run away!
 
-Sean was here.
+Sean was not here.
